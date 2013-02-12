@@ -1,10 +1,21 @@
 # Global ignores
+Makefile
 Makefile.in
+.deps
 
 # Top level ignores
 /aclocal.m4
 /autom4te.cache
 /auxdir
+/config.h
 /config.h.in
+/config.log
+/config.status
 /configure
+/libtool
 /m4
+/stamp-h1
+
+# Generated file ignores
+/src/stomp.h
+/src/stomp.c
