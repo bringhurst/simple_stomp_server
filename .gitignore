@@ -1,0 +1,10 @@
+# Global ignores
+Makefile.in
+
+# Top level ignores
+/aclocal.m4
+/autom4te.cache
+/auxdir
+/config.h.in
+/configure
+/m4
